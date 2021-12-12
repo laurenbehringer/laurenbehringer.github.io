@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Suara.com"
+      },
+      "author": "Vania Rossa",
+      "title": "YESSSSIRRRSSSKISSSm",
+      "description": "Hal ini diharapkan akan memudahkan petugas kesehatan, agar tidak ada input yang berulang dan membuat data tumpang tindih.",
+      "url": "https://www.suara.com/health/2021/12/10/110925/jadi-big-data-kemenkes-pedulilindungi-bakal-bisa-mengecek-status-kesehatan-ibu-dan-anak",
+      "urlToImage": "https://media.suara.com/pictures/970x544/2021/10/05/23465-ilustrasi-aplikasi-pedulilindungi-antara.jpg",
+      "publishedAt": "2021-12-10T04:09:00Z",
+      "content": "Suara.com - Kementerian Kesehatan (Kemenkes) membenarkan jika PeduliLindungi bakal jadi sistem kesehatan Indonesia yang terintegrasi, termasuk mengecek status kesehatan anak dan ibu hamil.\r\nHal ini d… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbcindonesia.com"
+      },
+      "author": "Tommy Patrio Sorongan",
+      "title": "Heboh Covid Jepang Turun Secara Misterius, Ada Apa? - CNBC Indonesia",
+      "description": "Penjelasan mengenai kasus Covid-19 yang turun tiba-tiba tanpa penguncian yang ketat.",
+      "url": "https://www.cnbcindonesia.com/news/20211210091931-4-298170/heboh-covid-jepang-turun-secara-misterius-ada-apa",
+      "urlToImage": "https://awsimages.detik.net.id/visual/2021/07/12/virus-outbreak-japan_169.jpeg?w=650",
+      "publishedAt": "2021-12-10T03:05:00Z",
+      "content": "Jakarta, CNBC Indonesia - Kasus Covid-19 di Jepang turun secara cepat dalam beberapa waktu terakhir. Hal ini membuat bingung para ilmuwan dunia yang masih mencari tahu alasan dibalik penurunan ini.\r\n… [+2148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detik.com"
+      },
+      "author": "Adi Fida Rahman",
+      "title": "Oppo Find N, Ponsel Layar Lipat Terbaru Pesaing Galaxy Z Fold 3 - detikInet",
+      "description": "Oppo bakal menyaingi Samsung dalam menghadirkan ponsel layar lipat. Di INNO Day 2021 akan diperkenalkan Oppo Find N yang menjadi pesaing Galaxy Z Fold 3.",
+      "url": "https://inet.detik.com/consumer/d-5848734/oppo-find-n-ponsel-layar-lipat-terbaru-pesaing-galaxy-z-fold-3",
+      "urlToImage": "https://awsimages.detik.net.id/api/wm/2021/12/10/oppo-find-n-2_169.jpeg?wid=54&w=650&v=1&t=jpeg",
+      "publishedAt": "2021-12-10T03:00:31Z",
+      "content": "Jakarta - Oppo bakal menyaingi Samsung dalam menghadirkan ponsel layar lipat. Dalam perhelatan INNO Day 2021, vendor asal China itu akan memperkenalkan Oppo Find N yang menjadi pesaing Galaxy Z Fold … [+2918 chars]"
+    }
+  ]
+}
