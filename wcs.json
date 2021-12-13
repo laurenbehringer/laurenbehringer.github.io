@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "mongabay.com"
+      },
+      "author": "Basten Gokkon",
+      "title": "Update December: Pencarian Dana RP5,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan: dana akan digunakan untuk pembiayaan pangan dan obat-obatan para satwa yang masih terdampak pandemi corona",
+      "url": "https://news.mongabay.com/2021/12/indonesia-ranks-high-on-legal-wildlife-trade-but-experts-warn-it-masks-illegal-trade/",
+      "urlToImage": "https://img.kitabisa.cc/size/1000/fd89c16d-7dca-4758-8ef1-f96d3ddcba76.jpg",
+      "publishedAt": "2021-12-10T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "nbcnews.com"
+      },
+      "author": "Josh Lederman",
+      "title": "Update November : Pencairan Dana Rp 700,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Dana yang dicairkan akan digunakan untuk memenuhi kebutuhan para satwa di Umbul diantaranya buah-buahan, daging, dan suplemen serta obat-obatan yang diberikan secara bertahap.",
+      "url": "https://www.nbcnews.com/news/world/corporations-are-turning-forest-credits-race-go-carbon-neutral-advocat-rcna7259",
+      "urlToImage": "https://img.kitabisa.cc/size/1000/c7649730-3aa7-435d-9d40-92f6fd6e6f85.jpg",
+      "publishedAt": "2021-12-10T03:00:31Z",
+      "content": "test"
+    }
+  ]
+}
