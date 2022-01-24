@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "BOS"
+      },
+      "author": "BOS Indonesia",
+      "title": "Update BOS Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Donasi digunakan untuk Observing orangutans on pre-release islands involves the collection of data on both their behavioural development and their physical health. \n.",
+      "url": "https://pbs.twimg.com/media/FJ2I7UKaMAAKRTv?format=jpg&name=medium",
+      "urlToImage": "https://pbs.twimg.com/media/FJ2I7UKaMAAKRTv?format=jpg&name=medium",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BOS"
+      },
+      "author": "BOS Indonesia",
+      "title": "Update YAYORIN December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Buy and supply food for the orangutans in sumatra",
+      "url": "https://pbs.twimg.com/media/FJmX2iMaAAIA0wa?format=jpg&name=medium",
+      "urlToImage": "https://pbs.twimg.com/media/FJmX2iMaAAIA0wa?format=jpg&name=medium",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "BOS"
+      },
+      "author": "BOS",
+      "title": "Update YAYORIN Deceember 1 Pencairan RP500,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Fees to adopt and take care of an orangutan in the facility",
+      "url": "https://pbs.twimg.com/media/FJhzZIjaIAEmKyF?format=jpg&name=900x900",
+      "urlToImage": "https://pbs.twimg.com/media/FJhzZIjaIAEmKyF?format=jpg&name=900x900",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BOS"
+      },
+      "author": "BOS Indonesia",
+      "title": "Update BOS October 21 Pencairan Rp300,000",
+      "description": "Rencana Pengunaan Dana: Survey and maintanence of the rainforest.",
+      "url": "https://pbs.twimg.com/media/FJc30-MagAAXkid?format=jpg&name=medium",
+      "urlToImage": "https://pbs.twimg.com/media/FJc30-MagAAXkid?format=jpg&name=medium",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    }
+  ]
+}
