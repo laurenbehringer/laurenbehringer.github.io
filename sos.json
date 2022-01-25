@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "SOS"
+      },
+      "author": "SOS Indonesia",
+      "title": "Update SOS Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana:  Donation to help the organization program called 'Clear Labels, Not Forests' in order for companies to clearly label palm oil in their products instead of previously labeling as vegetable oil thats causing massive deforestations",
+      "url": "https://www.orangutans-sos.org/content/uploads/2016/11/Forest-CREDIT-Djuna-Ivereigh-768x514.jpg",
+      "urlToImage": "https://www.orangutans-sos.org/content/uploads/2016/11/Forest-CREDIT-Djuna-Ivereigh-768x514.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SOS"
+      },
+      "author": "SOS Indonesia",
+      "title": "Update SOS December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Donate to help the organization to help combat palm oil companies from destorying the orangutan habitat and the rainforest any further.",
+      "url": "https://www.orangutans-sos.org/content/uploads/2016/11/hannaadcock-21-of-21-768x512.jpg",
+      "urlToImage": "https://www.orangutans-sos.org/content/uploads/2016/11/hannaadcock-21-of-21-768x512.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "SOS"
+      },
+      "author": "SOS",
+      "title": "Update SOS Deceember 1 Pencairan RP500,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Fees to adopt and take care of an orangutan in the facility",
+      "url": "https://www.orangutans-sos.org/content/uploads/2019/01/DSC9366-768x509.jpg",
+      "urlToImage": "https://www.orangutans-sos.org/content/uploads/2019/01/DSC9366-768x509.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SOS"
+      },
+      "author": "SOS Indonesia",
+      "title": "Update SOS October 21 Pencairan Rp300,000",
+      "description": "Rencana Pengunaan Dana: Help a Sumatran orangutan named Pongky was finally granted the chance to return to the wild, after spending over ten years behind bars, first as a ‘pet’, and then in a zoo. We campaigned for more than two years for his freedom, and we are delighted that he will have the chance to return to the forest, where he belongs.",
+      "url": "https://www.orangutans-sos.org/content/uploads/2016/11/Pongky-768x512.jpg",
+      "urlToImage": "https://www.orangutans-sos.org/content/uploads/2016/11/Pongky-768x512.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    }
+  ]
+}
