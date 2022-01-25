@@ -1,6 +1,19 @@
 {
   "status": "ok",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "SOCP"
+      },
+      "author": "SOCP Indonesia",
+      "title": "Update SOCP Januari 25 Pencairan Rp300,000",
+      "description": "Rencana Pengunaan Dana:  Donation for GIVING DAY FOR APES",
+      "url": "https://pbs.twimg.com/media/FBeOw6VUUAAOuj3?format=jpg&name=large",
+      "urlToImage": "https://pbs.twimg.com/media/FBeOw6VUUAAOuj3?format=jpg&name=large",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
 
     {
       "source": {
