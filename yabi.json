@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "YABI"
+      },
+      "author": "YABI Indonesia",
+      "title": "Update YABI Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Menengok Upaya Masyarakat Menyediakan Pakan Badak di Restorasi Rawa Kidang, Menanam Pakan Badak Bersama Kelompok Tani Hutan Rahayu Jaya",
+      "url": "https://badak.or.id/wp-content/uploads/2021/09/IMG_20210612_082307_746-rotated.jpg",
+      "urlToImage": "https://badak.or.id/wp-content/uploads/2021/09/IMG_20210612_082307_746-rotated.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YABI"
+      },
+      "author": "YABI Indonesia",
+      "title": "Update YABI December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Menjaga Pertaniaan yang digunakan untuk menjadi pakan Badak di konservasi",
+      "url": "https://badak.or.id/wp-content/uploads/2021/09/IMG_20210611_132922_562-rotated.jpg",
+      "urlToImage": "https://badak.or.id/wp-content/uploads/2021/09/IMG_20210611_132922_562-rotated.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP",
+      "title": "Update YABI Deceember 1 Pencairan RP2,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Donasi yang diberi ke YABI digunakan untuk memonitor dan evaluasi populasi badak di daerah sekitar",
+      "url": "https://badak.or.id/wp-content/uploads/2021/07/VDX32QZUUZM6LME3T3V6MBSMQA-edit.jpg",
+      "urlToImage": "https://badak.or.id/wp-content/uploads/2021/07/VDX32QZUUZM6LME3T3V6MBSMQA-edit.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+
+  ]
+}

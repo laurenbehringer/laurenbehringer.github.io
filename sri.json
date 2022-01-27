@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "SRI"
+      },
+      "author": "SRI Indonesia",
+      "title": "Update SRI Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Biaya untuk Membantu sumatran tiger bayi untuk menyembuhkan dari kondisi kritis",
+      "url": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-tiger-1.jpg",
+      "urlToImage": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-tiger-1.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SRI"
+      },
+      "author": "SRI Indonesia",
+      "title": "Update SRI December 27 Pencairan Rp500,000",
+      "description": "Rencana Pengunaan Dana: Berhasil memberhentikan gibbon dari animal trafficking illegal",
+      "url": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-4_-gibbon.jpg",
+      "urlToImage": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-4_-gibbon.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "SRI"
+      },
+      "author": "SRI",
+      "title": "Update PROFAUNA Deceember 1 Pencairan RP300,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Membantu rilis buaya yang sakit kembali ke alam",
+      "url": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-13-2.jpg",
+      "urlToImage": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-13-2.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SRI"
+      },
+      "author": "SRI",
+      "title": "Update SRI November 1 Pencairan RP2,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Menjaga binatang2 dari hutan, dan menemukan dan menyembuhkan sumatran tiger dalam kondisi kritis.",
+      "url": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-12-2.jpg",
+      "urlToImage": "https://i0.wp.com/sumatranrainforest.org/wp-content/uploads/2016/08/foto-12-2.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+
+  ]
+}

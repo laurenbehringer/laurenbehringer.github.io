@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "PROFAUNA"
+      },
+      "author": "PROFAUNA Indonesia",
+      "title": "Update PROFAUNA Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Pembagian Sembako ke Petani yang Tinggal di Tengah Hutan",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjWoNX1rZDag5InZ2tL4Tj0A62FZS8xjJ6FFpfcENiWG5rYBbeNbIWd4uTV0IXS4PNgYVvloiFVtjHvAq-L9-n7MvwUuvNWaqdoCjKSmsfmMYT4yaKzmLgcobW1KH5ixI52Domhi9x_MoOIqDgaoLAppcs7gcUkSK-PyLvPSHx9cxI5jqmVOpD7r65EXg=s800",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjWoNX1rZDag5InZ2tL4Tj0A62FZS8xjJ6FFpfcENiWG5rYBbeNbIWd4uTV0IXS4PNgYVvloiFVtjHvAq-L9-n7MvwUuvNWaqdoCjKSmsfmMYT4yaKzmLgcobW1KH5ixI52Domhi9x_MoOIqDgaoLAppcs7gcUkSK-PyLvPSHx9cxI5jqmVOpD7r65EXg=s800",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PROFAUNA"
+      },
+      "author": "PROFAUNA Indonesia",
+      "title": "Update PROFAUNA December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Training untuk petugas binatang baru di profauna",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEix0EGOubTgRhPZXI2G7sbhl5e5aDdfLmpVTZvgMs68W7_ng5VlUONVG00Nov9UUQiUiOMWCH6i1rN7h81BrBMqmnhlXdMBPOmP3quljDM7GQkRcUUYtKwZ7ePv05LwcCCGN1xiJI16AqwQuKiHQ20pi8HjC-67DcyPZ4hbY9Z78NLb4C4_DT69k28ZDw=s1600",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEix0EGOubTgRhPZXI2G7sbhl5e5aDdfLmpVTZvgMs68W7_ng5VlUONVG00Nov9UUQiUiOMWCH6i1rN7h81BrBMqmnhlXdMBPOmP3quljDM7GQkRcUUYtKwZ7ePv05LwcCCGN1xiJI16AqwQuKiHQ20pi8HjC-67DcyPZ4hbY9Z78NLb4C4_DT69k28ZDw=s1600",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "PROFAUNA"
+      },
+      "author": "PROFAUNA",
+      "title": "Update PROFAUNA Deceember 1 Pencairan RP300,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Membantu petani untuk menanam pohon pohon kembali ke hutan yang dilindungi",
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg3L9j3n_hsa1lSr3Iact7tJ9V68RPm2WnnubX_1Cnq8PEnUrIE3mJ_kPbtqkCGcCKabtq_iDuBITK4gDwzrE4bwVNo_JiAkxHKKEDGeP7J9Zn9N4YzbFvkrzimG4hKkwoqC5p0-AjVeegRPTQEBvKYlfUlZWZLbvFyYn9NEGZMe9bM-o4ObJWgwpvfvw=s800",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEg3L9j3n_hsa1lSr3Iact7tJ9V68RPm2WnnubX_1Cnq8PEnUrIE3mJ_kPbtqkCGcCKabtq_iDuBITK4gDwzrE4bwVNo_JiAkxHKKEDGeP7J9Zn9N4YzbFvkrzimG4hKkwoqC5p0-AjVeegRPTQEBvKYlfUlZWZLbvFyYn9NEGZMe9bM-o4ObJWgwpvfvw=s800",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PROFAUNA"
+      },
+      "author": "PROFAUNA",
+      "title": "Update PROFAUNA November 1 Pencairan RP2,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Monitor burung rangkong yang endangered di hutan terlindungi",
+      "url": "https://1.bp.blogspot.com/-o6GAQwoNDkU/Yai6nOGpvEI/AAAAAAAAGPg/Cn9ddsLJ68k5huntvRw7Dg3JpNKJZLN9gCNcBGAsYHQ/s1280/IMG-20211130-WA0010.jpg",
+      "urlToImage": "https://1.bp.blogspot.com/-o6GAQwoNDkU/Yai6nOGpvEI/AAAAAAAAGPg/Cn9ddsLJ68k5huntvRw7Dg3JpNKJZLN9gCNcBGAsYHQ/s1280/IMG-20211130-WA0010.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+
+  ]
+}

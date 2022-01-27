@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "GSC"
+      },
+      "author": "GSC Indonesia",
+      "title": "Update GSC Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Re-opening of the gili shark travel project",
+      "url": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/267144210_1869851383210622_6964294236902477047_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=lpq0xe9BdKMAX-my-gD&_nc_ht=scontent-sin6-2.xx&oh=00_AT_PBVtY0QgjRsgsAfa3FqHyrInGuR7JzlRhCgn-RJlUoA&oe=61F73CAC",
+      "urlToImage": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/267144210_1869851383210622_6964294236902477047_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=lpq0xe9BdKMAX-my-gD&_nc_ht=scontent-sin6-2.xx&oh=00_AT_PBVtY0QgjRsgsAfa3FqHyrInGuR7JzlRhCgn-RJlUoA&oe=61F73CAC",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSC"
+      },
+      "author": "GSC Indonesia",
+      "title": "Update GSC December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: In conjuction with other organizations and expert to help restore coral reefs in Indonesian oceans",
+      "url": "https://www.aljazeera.com/wp-content/uploads/2021/10/Marine-Biologist-Andrew-working-on-of-me-on-coral-nursery-ropes-at-the-Nusa-Penida-pilot-project-Credit-Ollie-Clark.jpg?resize=770%2C513",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/Marine-Biologist-Andrew-working-on-of-me-on-coral-nursery-ropes-at-the-Nusa-Penida-pilot-project-Credit-Ollie-Clark.jpg?resize=770%2C513",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "GSC"
+      },
+      "author": "GSC",
+      "title": "Update GSC Deceember 1 Pencairan RP2,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Donations are used to continue to monitor and track sharks in the local shark population",
+      "url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/271130048_4640426442713774_6959338133872356057_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DVrzwDS1RpAAX_ptPaq&_nc_ht=scontent-sin6-3.xx&oh=00_AT_3e7gEAhTIAzH9mHPjgpiq-Kzvl0EPwkOBU0sI-fVLvA&oe=61F77CB5",
+      "urlToImage": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/271130048_4640426442713774_6959338133872356057_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DVrzwDS1RpAAX_ptPaq&_nc_ht=scontent-sin6-3.xx&oh=00_AT_3e7gEAhTIAzH9mHPjgpiq-Kzvl0EPwkOBU0sI-fVLvA&oe=61F77CB5",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+
+  ]
+}
