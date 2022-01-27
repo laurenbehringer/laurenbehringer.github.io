@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP Indonesia",
+      "title": "Update WWF Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Dengan donasi yang diberikan ke IAR untuk konservasi kukang, IAR berhasil menyelmatkan Kukang yang tersengat listrik",
+      "url": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2022/01/compress-Release_Kukang_Elektro_G.-Tarak_16012022_RUD_81.jpg",
+      "urlToImage": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2022/01/compress-Release_Kukang_Elektro_G.-Tarak_16012022_RUD_81.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP Indonesia",
+      "title": "Update TOP December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Donasi untuk IAR untuk membantu menjaga konservasi orangutan untuk biaya Penyelamatan, perawatan medis intensif, rehabilitasi, pelepasliaran, dan monitoring orangutan.",
+      "url": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2021/10/Release-5-orangutan-TNBBBR_YIARI-2048x1366.jpg",
+      "urlToImage": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2021/10/Release-5-orangutan-TNBBBR_YIARI-2048x1366.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP",
+      "title": "Update TOP Deceember 1 Pencairan RP2,000,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Donasi yang diberi ke International Animal Rescue Indonesia dipakai untuk membantu anak2 indonesia lokal untuk mengedukasi anak anak dan mengajar tentang satwa binatang Indonesia",
+      "url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/271130048_4640426442713774_6959338133872356057_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DVrzwDS1RpAAX_ptPaq&_nc_ht=scontent-sin6-3.xx&oh=00_AT_3e7gEAhTIAzH9mHPjgpiq-Kzvl0EPwkOBU0sI-fVLvA&oe=61F77CB5",
+      "urlToImage": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/271130048_4640426442713774_6959338133872356057_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DVrzwDS1RpAAX_ptPaq&_nc_ht=scontent-sin6-3.xx&oh=00_AT_3e7gEAhTIAzH9mHPjgpiq-Kzvl0EPwkOBU0sI-fVLvA&oe=61F77CB5",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP",
+      "title": "Update WWF November 10 Pencairan RP 200,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Dana digunakan untuk menjaga dan melastarikan mangrove",
+      "url": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2021/12/Hutan-Mangrove.jpg",
+      "urlToImage": "https://www.internationalanimalrescue.or.id/wp-content/uploads/2021/12/Hutan-Mangrove.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+  ]
+}
