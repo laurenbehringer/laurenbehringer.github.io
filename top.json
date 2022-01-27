@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP Indonesia",
+      "title": "Update WWF Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Dana akan di donasikan ke WWF Untuk membantu Universitas Cendrawasih dan WWF meluncurkan publikasi buku tentang 114 jenis burung di wilayah Papua bagian utara",
+      "url": "https://www.theorangutanproject.eu/static/media/uploads/2022_01_sam_and_sule_kiss.jpg",
+      "urlToImage": "https://www.theorangutanproject.eu/static/media/uploads/2022_01_sam_and_sule_kiss.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP Indonesia",
+      "title": "Update TOP December 27 Pencairan Rp1,000,000",
+      "description": "Dana akan digunakan untuk penyelamatan megafauna aukuatik terdampar, sangat penting untuk dilakukan, karena mereka berperan penting untuk menjaga keseimbangan  rantai makanan laut.",
+      "url": "https://pbs.twimg.com/media/FHmcc2CVQAgoELg?format=jpg&name=large",
+      "urlToImage": "https://pbs.twimg.com/media/FHmcc2CVQAgoELg?format=jpg&name=large",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "TOP",
+      "title": "Update TOP Deceember 1 Pencairan RP500,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Membantu Merelasasikan Program “Sealife Rehabilitation Unit”",
+      "url": "https://pbs.twimg.com/media/FHmcJvnVcAACS3A?format=jpg&name=4096x4096",
+      "urlToImage": "https://pbs.twimg.com/media/FHmcJvnVcAACS3A?format=jpg&name=4096x4096",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TOP"
+      },
+      "author": "Josh TOP",
+      "title": "Update WWF November 10 Pencairan RP 200,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Dana Akan digunakan untuk membantu WWF dalam program \"Nature Warrior - Wildlife Program",
+      "url": "https://www.wwf.id/upload/2020/04/donasi-gajah.png",
+      "urlToImage": "https://www.wwf.id/upload/2020/04/donasi-gajah.png",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+  ]
+}
