@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "articles": [
+
+    {
+      "source": {
+        "id": null,
+        "name": "LINI"
+      },
+      "author": "LINI Indonesia",
+      "title": "Update LINI Januari 25 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Congratulated on local on protecting and keeping conservation on the coral reefs",
+      "url": "https://lini.or.id/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-11-at-5.40.52-PM-1.jpeg",
+      "urlToImage": "https://lini.or.id/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-11-at-5.40.52-PM-1.jpeg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LINI"
+      },
+      "author": "LINI Indonesia",
+      "title": "Update LINI December 27 Pencairan Rp1,000,000",
+      "description": "Rencana Pengunaan Dana: Coral reef conservation In Bone Baru Village – Banggai Laut Central Sulawesi",
+      "url": "https://lini.or.id/wp-content/uploads/2021/09/P_20210905_080846-2048x1152.jpg",
+      "urlToImage": "https://lini.or.id/wp-content/uploads/2021/09/P_20210905_080846-2048x1152.jpg",
+      "publishedAt": "2021-12-27T03:05:00Z",
+      "content": "test”"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "LINI"
+      },
+      "author": "LINI",
+      "title": "Update LINI Deceember 1 Pencairan RP300,000",
+      "description": "Rencana Penggunaan Dana Pencairan : Donated money used to support the team on monitoring and conserving the oceans",
+      "url": "https://lini.or.id/wp-content/uploads/2021/06/Participants-from-6-community-groups-in-Buleleng-North-Bali.jpg",
+      "urlToImage": "https://lini.or.id/wp-content/uploads/2021/06/Participants-from-6-community-groups-in-Buleleng-North-Bali.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LINI"
+      },
+      "author": "LINI",
+      "title": "Update LINI November 1 Pencairan RP2,000,000",
+      "description": "Pengunaan Dana: Donated money used to help Construct And Install Artificial Reef Structures For Their Reef Restoration Program ",
+      "url": "https://lini.or.id/wp-content/uploads/2021/02/reef-restoration-sites-hopefully-becoming-new-dive-sites-in-North-Bali-e1612323276933.jpg",
+      "urlToImage": "https://lini.or.id/wp-content/uploads/2021/02/reef-restoration-sites-hopefully-becoming-new-dive-sites-in-North-Bali-e1612323276933.jpg",
+      "publishedAt": "2021-12-21T03:00:31Z",
+      "content": "test"
+    }
+
+  ]
+}
