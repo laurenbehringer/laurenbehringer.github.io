@@ -1,0 +1,604 @@
+{
+    "menu": [
+        {
+            "name": "allmenu",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "send",
+                    "name": "Send",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "makePayment",
+                    "keyword": "{transfer,send}",
+                    "enabled": true
+                },
+                {
+                    "id": "bi_fast",
+                    "name": "BI_Fast",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "makePayment",
+                    "keyword": "{transfer,bifast,bi-fast}",
+                    "enabled": true
+                },
+                {
+                    "id": "kliring",
+                    "name": "Kliring",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "makePayment",
+                    "keyword": "{transfer,kliring}",
+                    "enabled": true
+                },
+                {
+                    "id": "va_biling",
+                    "name": "VA\nBiling",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "makePayment",
+                    "keyword": "{transfer,va,va billing, virtual account}",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "name": "Pembelian",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "pulsa_prabayar",
+                    "name": "Pulsa\nPrabayar",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "makepulsaPrabayarScreen",
+                    "keyword": "{pembelian, pulsa, isi pulsa, pulsa prabayar}",
+                    "enabled": true
+                },
+                {
+                    "id": "paket_data",
+                    "name": "Paket Data",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "internetdataScreen2",
+                    "keyword": "{pembelian, data, paket data, paket}",
+                    "enabled": true
+                },
+                {
+                    "id": "token-listrik",
+                    "name": "Token Listrik",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tokenlistrikScreen",
+                    "keyword": "{pembelian, token, listrik, token listrik, pln}",
+                    "enabled": true
+                },
+                {
+                    "id": "voucher_tv_berlangganan",
+                    "name": "VA\nBiling",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "vouchertvScreen",
+                    "keyword": "{transfer,va,va billing, virtual account}",
+                    "enabled": true
+                },
+                {
+                    "id": "top_up_agen_penerbangan",
+                    "name": "Top Up Agen\nPenerbangan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "agenpenerbanganScreen",
+                    "keyword": "{transfer,va,va billing, virtual account}",
+                    "enabled": true
+                },
+                {
+                    "id": "asuransi_bni_life",
+                    "name": "Asuransi\nBNI Life",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "agenpenerbanganScreen",
+                    "keyword": "{transfer,va,va billing, virtual account}",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "name": "Pembayaran",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "kartu-kredit-bni",
+                    "name": "Kartu\nKredit BNI",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "creditBni",
+                    "keyword": "{pembayaran, kartu, kredit, bni, kartu kredit, kartu kredit bni}",
+                    "enabled": true
+                },
+                {
+                    "id": "kartu-kredit-bank-lain",
+                    "name": "Kartu Kredit\nBank Lain",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "creditOther",
+                    "keyword": "{pembayaran, kartu, kredit, bank, bank lain, kartu kredit, kartu kredit bank lain}",
+                    "enabled": true
+                },
+                {
+                    "id": "pasca-bayar-telepon",
+                    "name": "Pasca Bayar\nTelepon",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pascabayarTelepon",
+                    "keyword": "{pembayaran, pasca, pascabayar, telepon, pascabayar telepon}",
+                    "enabled": true
+                },
+                {
+                    "id": "tagihan-listrik",
+                    "name": "Tagihan\nListrik",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tagihanListrik",
+                    "keyword": "{pembayaran, listrik, tagihan, tagihan listrik}",
+                    "enabled": true
+                },
+                {
+                    "id": "penerimaan-negara",
+                    "name": "Penerimaan\nNegara",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "penerimaanNegara",
+                    "keyword": "{pembayaran, negara, penerimaan, penerimaan negara}",
+                    "enabled": true
+                },
+                {
+                    "id": "multifinance",
+                    "name": "Multifinance",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "multifinance",
+                    "keyword": "{pembayaran, multifinance}",
+                    "enabled": true
+                },
+                {
+                    "id": "tv-berlangganan",
+                    "name": "TV\nBerlangganan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tvberlangganan",
+                    "keyword": "{pembayaran, tv, langganan, berlangganan, tv berlangganan}",
+                    "enabled": true
+                },
+                {
+                    "id": "zis-qurban",
+                    "name": "zis-qurban",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "zisqurban",
+                    "keyword": "{pembayaran, zis, qurban, zis & qurban, zakat, infaq, sodaqoh}",
+                    "enabled": true
+                },
+                {
+                    "id": "pdam-ipl",
+                    "name": "PDAM & IPL",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pdamIplScreen",
+                    "keyword": "{pembayaran, pdam, air, ipl, pdam & ipl}",
+                    "enabled": true
+                },
+                {
+                    "id": "asuransi",
+                    "name": "Asuransi",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "asuransiScreen",
+                    "keyword": "{pembayaran, asuransi}",
+                    "enabled": true
+                },
+
+                {
+                    "id": "tiket-kereta-api-railink",
+                    "name": "Tiket Kereta\nApi & Railink",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tiketkeretaScreen",
+                    "keyword": "{pembayaran, tiket, kereta, kereta api, railink, tiket kereta, tiket kereta api, tiket kereta api & railink}",
+                    "enabled": true
+                },
+                {
+                    "id": "tiket-penerbangan",
+                    "name": "Tiket\nPenerbangan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tiketPesawatScreen",
+                    "keyword": "{pembayaran, tiket, penerbangan, pesawat, tiket pesawat, tiket penerbangan}",
+                    "enabled": true
+                },
+                {
+                    "id": "internet",
+                    "name": "Internet",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "internetScreen",
+                    "keyword": "{pembayaran, internet}",
+                    "enabled": true
+                },
+
+                {
+                    "id": "pinjaman-personal",
+                    "name": "Pinjaman\nPersonal",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pinjamanPersonalScreen",
+                    "keyword": "{pembayaran, pinjaman, personal, pinjaman personal}",
+                    "enabled": true
+                },
+                {
+                    "id": "pegadaian",
+                    "name": "Pegadaian",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pegadaianScreen",
+                    "keyword": "{pembayaran, pegadaian}",
+                    "enabled": true
+                },
+                {
+                    "id": "biaya-pendidikan",
+                    "name": "Internet",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "biayapendidikanScreen",
+                    "keyword": "{pembayaran, biaya, pendidikan, biaya pendidikan, sekolah}",
+                    "enabled": true
+                },
+                {
+                    "id": "pajak",
+                    "name": "Pajak",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pajakScreen",
+                    "keyword": "{pembayaran, pajak}",
+                    "enabled": true
+                },
+                {
+                    "id": "pgn",
+                    "name": "PGN",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pgnScreen",
+                    "keyword": "{pembayaran, pgn}",
+                    "enabled": true
+                },
+                {
+                    "id": "tki",
+                    "name": "TKI",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tkiScreen",
+                    "keyword": "{pembayaran, tki}",
+                    "enabled": true
+                },
+                {
+                    "id": "samsat-signal",
+                    "name": "SAMSAT/\nSIGNAL",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "samsatScreen",
+                    "keyword": "{pembayaran, samsat, signal, samsat/signal}",
+                    "enabled": true
+                },
+                {
+                    "id": "bpjs-kesehatan",
+                    "name": "BPJS\nKesehatan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "bpjskesehatanScreen",
+                    "keyword": "{pembayaran, bpjs, kesehatan, bpjs kesehatan}",
+                    "enabled": true
+                },
+                {
+                    "id": "bpjs-ketenagakerjaan",
+                    "name": "BPJS\nKetenagakerjaan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "bpjsketenagakerjaanScreen",
+                    "keyword": "{pembayaran, bpjs, ketenagakerjaan, bpjs ketenagakerjaan}",
+                    "enabled": true
+                },
+                {
+                    "id": "pertamina-lpg",
+                    "name": "Pertamina\nLPG 3kg",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pertaminaLpg3kgScreen",
+                    "keyword": "{pembayaran, lpg, pertamina, 3kg, pertamina lpg, pertamina lpg 3kg}",
+                    "enabled": true
+                },
+                {
+                    "id": "kepelabuhan",
+                    "name": "Kepelabuhan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "kepelabuhanScreen",
+                    "keyword": "{pembayaran, pelabuhan, kepelabuhan}",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "name": "Pembayaran",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "kartu-kredit-bni",
+                    "name": "Kartu\nKredit BNI",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "creditBni",
+                    "keyword": "{pembayaran, kartu, kredit, bni, kartu kredit, kartu kredit bni}",
+                    "enabled": true
+                },
+                {
+                    "id": "kartu-kredit-bank-lain",
+                    "name": "Kartu Kredit\nBank Lain",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "creditOther",
+                    "keyword": "{pembayaran, kartu, kredit, bank, bank lain, kartu kredit, kartu kredit bank lain}",
+                    "enabled": true
+                },
+                {
+                    "id": "pasca-bayar-telepon",
+                    "name": "Pasca Bayar\nTelepon",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pascabayarTelepon",
+                    "keyword": "{pembayaran, pasca, pascabayar, telepon, pascabayar telepon}",
+                    "enabled": true
+                },
+                {
+                    "id": "tagihan-listrik",
+                    "name": "Tagihan\nListrik",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tagihanListrik",
+                    "keyword": "{pembayaran, listrik, tagihan, tagihan listrik}",
+                    "enabled": true
+                },
+                {
+                    "id": "penerimaan-negara",
+                    "name": "Penerimaan\nNegara",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "penerimaanNegara",
+                    "keyword": "{pembayaran, negara, penerimaan, penerimaan negara}",
+                    "enabled": true
+                },
+                {
+                    "id": "multifinance",
+                    "name": "Multifinance",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "multifinance",
+                    "keyword": "{pembayaran, multifinance}",
+                    "enabled": true
+                },
+                {
+                    "id": "tv-berlangganan",
+                    "name": "TV\nBerlangganan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tvberlangganan",
+                    "keyword": "{pembayaran, tv, langganan, berlangganan, tv berlangganan}",
+                    "enabled": true
+                },
+                {
+                    "id": "zis-qurban",
+                    "name": "zis-qurban",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "zisqurban",
+                    "keyword": "{pembayaran, zis, qurban, zis & qurban, zakat, infaq, sodaqoh}",
+                    "enabled": true
+                },
+                {
+                    "id": "pdam-ipl",
+                    "name": "PDAM & IPL",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pdamIplScreen",
+                    "keyword": "{pembayaran, pdam, air, ipl, pdam & ipl}",
+                    "enabled": true
+                },
+                {
+                    "id": "asuransi",
+                    "name": "Asuransi",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "asuransiScreen",
+                    "keyword": "{pembayaran, asuransi}",
+                    "enabled": true
+                },
+
+                {
+                    "id": "tiket-kereta-api-railink",
+                    "name": "Tiket Kereta\nApi & Railink",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tiketkeretaScreen",
+                    "keyword": "{pembayaran, tiket, kereta, kereta api, railink, tiket kereta, tiket kereta api, tiket kereta api & railink}",
+                    "enabled": true
+                },
+                {
+                    "id": "tiket-penerbangan",
+                    "name": "Tiket\nPenerbangan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tiketPesawatScreen",
+                    "keyword": "{pembayaran, tiket, penerbangan, pesawat, tiket pesawat, tiket penerbangan}",
+                    "enabled": true
+                },
+                {
+                    "id": "internet",
+                    "name": "Internet",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "internetScreen",
+                    "keyword": "{pembayaran, internet}",
+                    "enabled": true
+                },
+
+                {
+                    "id": "pinjaman-personal",
+                    "name": "Pinjaman\nPersonal",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pinjamanPersonalScreen",
+                    "keyword": "{pembayaran, pinjaman, personal, pinjaman personal}",
+                    "enabled": true
+                },
+                {
+                    "id": "pegadaian",
+                    "name": "Pegadaian",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pegadaianScreen",
+                    "keyword": "{pembayaran, pegadaian}",
+                    "enabled": true
+                },
+                {
+                    "id": "biaya-pendidikan",
+                    "name": "Internet",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "biayapendidikanScreen",
+                    "keyword": "{pembayaran, biaya, pendidikan, biaya pendidikan, sekolah}",
+                    "enabled": true
+                },
+                {
+                    "id": "pajak",
+                    "name": "Pajak",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pajakScreen",
+                    "keyword": "{pembayaran, pajak}",
+                    "enabled": true
+                },
+                {
+                    "id": "pgn",
+                    "name": "PGN",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pgnScreen",
+                    "keyword": "{pembayaran, pgn}",
+                    "enabled": true
+                },
+                {
+                    "id": "tki",
+                    "name": "TKI",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tkiScreen",
+                    "keyword": "{pembayaran, tki}",
+                    "enabled": true
+                },
+                {
+                    "id": "samsat-signal",
+                    "name": "SAMSAT/\nSIGNAL",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "samsatScreen",
+                    "keyword": "{pembayaran, samsat, signal, samsat/signal}",
+                    "enabled": true
+                },
+                {
+                    "id": "bpjs-kesehatan",
+                    "name": "BPJS\nKesehatan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "bpjskesehatanScreen",
+                    "keyword": "{pembayaran, bpjs, kesehatan, bpjs kesehatan}",
+                    "enabled": true
+                },
+                {
+                    "id": "bpjs-ketenagakerjaan",
+                    "name": "BPJS\nKetenagakerjaan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "bpjsketenagakerjaanScreen",
+                    "keyword": "{pembayaran, bpjs, ketenagakerjaan, bpjs ketenagakerjaan}",
+                    "enabled": true
+                },
+                {
+                    "id": "pertamina-lpg",
+                    "name": "Pertamina\nLPG 3kg",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pertaminaLpg3kgScreen",
+                    "keyword": "{pembayaran, lpg, pertamina, 3kg, pertamina lpg, pertamina lpg 3kg}",
+                    "enabled": true
+                },
+                {
+                    "id": "kepelabuhan",
+                    "name": "Kepelabuhan",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "kepelabuhanScreen",
+                    "keyword": "{pembayaran, pelabuhan, kepelabuhan}",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "name": "e-Voucher",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "games",
+                    "name": "Games",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "",
+                    "keyword": "{e-voucher, voucher, games, voucher games}",
+                    "enabled": true
+                },
+                {
+                    "id": "e-vouchers",
+                    "name": "eVouchers",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "",
+                    "keyword": "{e-voucher, voucher, evouchers}",
+                    "enabled": true
+                },
+                {
+                    "id": "top-up",
+                    "name": "Top Up",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "pascabayarTelepon",
+                    "keyword": "{pembayaran, pasca, pascabayar, telepon, pascabayar telepon}",
+                    "enabled": true
+                },
+                
+            ]
+        },
+        {
+            "name": "e-Wallet",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "tap-cash",
+                    "name": "TapCash",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "tapcashScreen",
+                    "keyword": "{e-wallet, wallet, tap, tapcash}",
+                    "enabled": true
+                },
+                {
+                    "id": "link-aja",
+                    "name": "LinkAja",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "ewalletScreen",
+                    "keyword": "{e-wallet, wallet, linkaja}",
+                    "enabled": true
+                },
+                {
+                    "id": "go-pay",
+                    "name": "Gopay",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "gopayScreen",
+                    "keyword": "{e-wallet, wallet, gopay}",
+                    "enabled": true
+                },
+                {
+                    "id": "shopee-pay",
+                    "name": "ShopeePay",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "ewalletScreen",
+                    "keyword": "{e-wallet, wallet, shopeepay}",
+                    "enabled": true
+                },
+                {
+                    "id": "ovo",
+                    "name": "OVO",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "ewalletScreen",
+                    "keyword": "{e-wallet, wallet, ovo}",
+                    "enabled": true
+                },
+                {
+                    "id": "dana",
+                    "name": "DANA",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "ewalletScreen",
+                    "keyword": "{e-wallet, wallet, dana}",
+                    "enabled": true
+                },
+                {
+                    "id": "i-saku",
+                    "name": "i.saku",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "ewalletScreen",
+                    "keyword": "{e-wallet, wallet, isaku, i.saku}",
+                    "enabled": true
+                }
+                
+            ]
+        },
+        {
+            "name": "Travel & Entertainment",
+            "enabled": true,
+            "submenu": [
+                {
+                    "id": "bni-channel-locator",
+                    "name": "BNI Channel\nLocator",
+                    "image": "https://img.icons8.com/small/344/among-us.png",
+                    "route": "atmlocatorScreen",
+                    "keyword": "{travel, entertainment, travel & entertainment, bni, channel, atm, bni channel, locator, bni channel locator, atm locator}",
+                    "enabled": true
+                }
+            ]
+        }
+    ]
+}
