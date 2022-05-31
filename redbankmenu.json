@@ -519,7 +519,7 @@
                     "route": "pascabayarTelepon",
                     "keyword": "{pembayaran, pasca, pascabayar, telepon, pascabayar telepon}",
                     "enabled": true
-                },
+                }
                 
             ]
         },
